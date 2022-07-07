@@ -19,12 +19,12 @@ The purpose of this analysis is to identify if there is a business opportunity f
 ![Fig1](https://github.com/jtspingler/surfs_up/blob/main/June%20stats.png)
 - Average: 74.94 degrees
 - High: 85.00 degrees
-- # of Observations: 1700
+- Number of Observations: 1700
 
 ### December Statistics
 
-![Fig2](https://https://github.com/jtspingler/surfs_up/blob/main/Dec%20stats.png)
+![Fig2](https://github.com/jtspingler/surfs_up/blob/main/Dec%20stats.png)
 - Average: 71.04 degrees
 - High: 83.00 degrees
-- # of Observations: 1517
+- Number of Observations: 1517
 
