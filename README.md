@@ -16,15 +16,17 @@ The purpose of this analysis is to identify if there is a business opportunity f
 
 ### June Statistics
 
-![Fig1](https://https://github.com/jtspingler/surfs_up/blob/main/June%20stats.JPG)
-![Fig6](https://github.com/jtspingler/PyBer_Analysis/blob/main/analysis/Fig6.png)
+![Fig1](https://github.com/jtspingler/surfs_up/blob/main/June%20stats.png)
+- Average: 74.94 degrees
+- High: 85.00 degrees
+- # of Observations: 1700
 
-### Driver Counts by City Type
+### December Statistics
 
-This data was fairly expected, and we did not see any outliers here. We would expect there to be more drivers in the city than there are in the suburban areas as well as rural areas. Similarly to above, the pie chart displayed this exact data.
-
-![Fig4](https://github.com/jtspingler/PyBer_Analysis/blob/main/analysis/Fig4.png)
-![Fig7](https://github.com/jtspingler/PyBer_Analysis/blob/main/analysis/Fig7.png)
+![Fig2](https://https://github.com/jtspingler/surfs_up/blob/main/Dec%20stats.png)
+- Average: 71.04 degrees
+- High: 83.00 degrees
+- # of Observations: 1517
 
 ### Fare Counts by City Type
 Using the data provided, we can see that on average the most expensive rides will occur in the rural areas. This can be explained by supply / demand, as there are not as many drivers or riders in urban areas. Our multiple-line graph shows total weekly fares for each city type. Urban cities have the highest revenue in comparison to suburban and rural cities which is also expected. 
